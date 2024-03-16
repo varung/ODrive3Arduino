@@ -1,5 +1,5 @@
-# ODriveArduino
-Arduino library for controlling [ODrive motor controllers](https://odriverobotics.com/).
+# ODrive3Arduino
+Arduino library for controlling [ODrive v3.6 motor controllers](https://odriverobotics.com/).
 
 Supports UART and CAN communication.
 
